@@ -1,2 +1,2 @@
-# Canister-design
-Canister app design and document
+# Canister-docs
+Canister is coffee lovers app.
